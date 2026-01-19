@@ -85,6 +85,7 @@ Feel free to contribute by sending PR!
 * [Embedded Systems: Marketable Skills & Intro To Data-Oriented Design Western Michigan University IEEE](https://www.youtube.com/watch?v=YlhA2Y-qpUA) - James Novorita
 * [Pitfalls of Object Oriented Programming, Revisited (TGC 2017)](https://www.youtube.com/watch?v=VAT9E-M-PoE) - Tony Albrecht
 * [Intro to Data Oriented Design for Games (2023)](https://www.youtube.com/watch?v=WwkuAqObplU) - Nic Barker
+* [The Big OOPs: Anatomy of a Thirty-five-year Mistake (BSC 2025)](https://youtu.be/wo84LFzx5nI) - Casey Muratori
 * [Cache-Friendly C++ (cppcon 2025)](https://www.youtube.com/watch?v=g_X5g3xw43Q) - Jonathan Muller
 * [More Speed & Simplicity: Practical Data-Oriented Design in C++ (cppcon 2025)](https://youtu.be/SzjJfKHygaQ) - Vittorio Romeo
 
